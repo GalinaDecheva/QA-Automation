@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea12DigitsPrecision
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingTriangle", "PrintingTriangle\PrintingTriangle.csproj", "{03912F21-234F-49A9-915A-B26820B176FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNegativesAndReverse", "RemoveNegativesAndReverse\RemoveNegativesAndReverse.csproj", "{B627AE1A-39E8-4A76-9AA4-508214DA2784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{03912F21-234F-49A9-915A-B26820B176FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03912F21-234F-49A9-915A-B26820B176FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03912F21-234F-49A9-915A-B26820B176FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B627AE1A-39E8-4A76-9AA4-508214DA2784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B627AE1A-39E8-4A76-9AA4-508214DA2784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B627AE1A-39E8-4A76-9AA4-508214DA2784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B627AE1A-39E8-4A76-9AA4-508214DA2784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

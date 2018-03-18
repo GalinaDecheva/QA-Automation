@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea12DigitsPrecision", "CircleArea12DigitsPrecision\CircleArea12DigitsPrecision.csproj", "{39DA4086-4CC6-4AB5-94B4-FBE514E50340}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingTriangle", "PrintingTriangle\PrintingTriangle.csproj", "{03912F21-234F-49A9-915A-B26820B176FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{39DA4086-4CC6-4AB5-94B4-FBE514E50340}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39DA4086-4CC6-4AB5-94B4-FBE514E50340}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39DA4086-4CC6-4AB5-94B4-FBE514E50340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03912F21-234F-49A9-915A-B26820B176FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03912F21-234F-49A9-915A-B26820B176FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03912F21-234F-49A9-915A-B26820B176FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03912F21-234F-49A9-915A-B26820B176FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

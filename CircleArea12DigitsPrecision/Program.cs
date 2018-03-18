@@ -14,6 +14,7 @@ namespace CircleArea12DigitsPrecision
             double result = Math.PI * radius * radius;
             //Console.WriteLine("{0} is area on circle with radius {1}",result,radius);
             Console.WriteLine("{0:f12}", result);
+            Console.WriteLine($"{result:f12}");
         }
     }
 }

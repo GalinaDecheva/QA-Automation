@@ -1,7 +1,0 @@
-C:\Users\Gale\source\repos\Solution\CircleArea12DigitsPrecision\bin\Debug\CircleArea12DigitsPrecision.exe.config
-C:\Users\Gale\source\repos\Solution\CircleArea12DigitsPrecision\bin\Debug\CircleArea12DigitsPrecision.exe
-C:\Users\Gale\source\repos\Solution\CircleArea12DigitsPrecision\bin\Debug\CircleArea12DigitsPrecision.pdb
-C:\Users\Gale\source\repos\Solution\CircleArea12DigitsPrecision\obj\Debug\CircleArea12DigitsPrecision.csprojResolveAssemblyReference.cache
-C:\Users\Gale\source\repos\Solution\CircleArea12DigitsPrecision\obj\Debug\CircleArea12DigitsPrecision.csproj.CoreCompileInputs.cache
-C:\Users\Gale\source\repos\Solution\CircleArea12DigitsPrecision\obj\Debug\CircleArea12DigitsPrecision.exe
-C:\Users\Gale\source\repos\Solution\CircleArea12DigitsPrecision\obj\Debug\CircleArea12DigitsPrecision.pdb
